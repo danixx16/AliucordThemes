@@ -1,0 +1,2 @@
+# AiucordThemes
+Themes for Aliucord
