@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "name": "Snowfall",
+        "version": "1.0.0",
+        "author": "Ella",
+        "updater": "https:\/\/raw.githubusercontent.com\/ellaxx16\/AliucordThemes\/main\/Snowfall.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/815889738900832256\/888568198155358208\/4499d750a7f471318b53b76e9294222e.gif",
+        "blur_radius": 5
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/815889738900832256\/888878984157360189\/peach-sundress.ttf"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 1040187392,
+        "mention_highlight": 419430399,
+        "active_channel": 2110523183
+    },
+    "colors": {
+        "link": -3406033,
+        "primary_dark_200": -9507163,
+        "uikit_btn_bg_color_selector_red": -3406033
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -15439082,
+        "ic_status_dnd_16dp": -4512472,
+        "ic_status_idle_16dp": -490455,
+        "ic_status_invisible_16dp": -1,
+        "ic_status_streaming_16dp": -11199631
+    }
+}
