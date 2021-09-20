@@ -3,6 +3,7 @@
         "author": "Ella",
         "version": "1.0.0",
         "name": "PinkClouds"
+        "updater": "https:\/\/raw.githubusercontent.com\/ellaxx16\/AliucordThemes\/main\/PinkClouds.json"
     },
     "background": {
         "overlay_alpha": 140,
