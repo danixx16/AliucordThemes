@@ -1,2 +1,4 @@
-# AiucordThemes
-Themes for Aliucord
+# Aliucord Themes
+My themes for Aliucord
+
+# Previews
