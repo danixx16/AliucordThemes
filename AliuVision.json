@@ -1,7 +1,7 @@
 {
     "manifest": {
         "name": "AliuVision",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "author": "Ella",
         "license": "Apache License 2.0"
     },
@@ -18,7 +18,7 @@
     },
     "colors": {
         "uikit_btn_bg_color_selector_green": -14188314,
-        "uikit_btn_bg_color_selector_red": -14188314
+        "uikit_btn_bg_color_selector_red": -14589527
     },
     "drawable_tints": {
         "ic_status_online_16dp": -12339839,
